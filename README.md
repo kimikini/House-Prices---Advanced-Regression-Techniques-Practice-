@@ -10,8 +10,8 @@ My highest score on the Kaggle leaderboard so far is 0.15652.<br>
 
 **Description**<br>
 The data sets:<br>
-One train data set: 146 passengers whose label is known (missing value exist)<br>
-One test data set: 146 passengers whose label is unknown (missing value exist)<br>
+One train data set: 1460 rows (missing value exist)<br>
+One test data set: 1459 rows  (missing value exist)<br>
 
 **Key Variables (79 variables in train data set)**<br>
 SalePrice: The property's sale price in dollars (target variable)<br>
