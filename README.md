@@ -1,10 +1,13 @@
 # House-Prices---Advanced-Regression-Techniques-Practice-
 **🏡 House Prices - Advanced Regression Techniques-Kaggle-Competition-Project**<br>
 This repository contains my analysis and machine learning models developed for the House Prices - Advanced Regression Techniques competition on Kaggle. https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data<br>
+
 **🎯 Objective**<br>
 The goal of this project is to build predictive models that estimate house prices based on provided features, such as lot size, neighborhood, house style, and more. <br>
+
 **🏆 Best Score**<br>
 My highest score on the Kaggle leaderboard so far is 0.15652.<br>
+
 **Description**<br>
 The data sets:<br>
 One train data set: 146 passengers whose label is known (missing value exist)<br>
